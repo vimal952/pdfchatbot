@@ -18,7 +18,7 @@ There are two models. One is `questions` which store all the questions and their
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/itsvineetkr/ai-planet-backend.git
-    cd ai-planet-backend
+    cd pdfchatbot
     ```
 
 2. **Create a virtual environment:**
