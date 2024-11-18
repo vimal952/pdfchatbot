@@ -1,4 +1,4 @@
-# AI Planet Internship Assignment
+# PDF Chatbot
 
 This is a FastAPI application. It uses the `uvicorn` server to run the application.
 
